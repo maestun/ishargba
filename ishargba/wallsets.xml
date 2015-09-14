@@ -1,0 +1,69 @@
+<wallsets>
+	<wallset in="1" id="255" name="DEBUG_IN" depth="4">
+		<ubg  bmp="UBG_DUNGEON1.bin.bmp" w="240" h="64" x="0" y="0" st="0" />
+		<iubg bmp="IUBG_DUNGEON1.bin.bmp" w="240" h="64" x="0" y="0" st="0"/>
+		<lbg  bmp="LBG_DUNGEON1.bin.bmp" w="240" h="36" x="0" y="6" st="0" />
+		<ilbg bmp="LBG_DUNGEON1.bin.bmp" w="240" h="36" x="0" y="6" st="0"/>
+	
+		<fw1 bmp="DBG_FW1.bin.bmp" w="188" h="91" x="26" y="6" st="0" />
+		<fw2 bmp="DBG_FW2.bin.bmp" w="124" h="60" x="58" y="26" st="0" />
+		<fw3 bmp="DBG_FW3.bin.bmp" w="80" h="40" x="80" y="40" st="0" />
+		<fw4 bmp="DBG_FW4.bin.bmp" w="60" h="24" x="91" y="51" st="0" />
+		
+		<lw1 bmp="DBG_LW1.bin.bmp" w="26" h="100" x="0" y="0" st="0" />
+		<lw2 bmp="DBG_LW2.bin.bmp" w="32" h="92" x="26" y="5" st="0" />
+		<lw3 bmp="DBG_LW3.bin.bmp" w="22" h="60" x="58" y="26" st="0" />
+		<lw4 bmp="DBG_LW4.bin.bmp" w="19" h="38" x="80" y="41" st="0" />
+		
+		<rw1 bmp="DBG_RW1.bin.bmp" w="26" h="100" x="214" y="0" st="0" />
+		<rw2 bmp="DBG_RW2.bin.bmp" w="32" h="92" x="182" y="4" st="0" />
+		<rw3 bmp="DBG_RW3.bin.bmp" w="22" h="60" x="160" y="26" st="0" />
+		<rw4 bmp="DBG_RW4.bin.bmp" w="19" h="38" x="141" y="41" st="0" />
+	</wallset>
+
+
+	<wallset in="1" id="1" name="Dungeon_1" depth="4">
+		<ubg  bmp="UBG_DUNGEON1.bin.bmp" w="240" h="64" x="0" y="0" st="0" />
+		<iubg bmp="IUBG_DUNGEON1.bin.bmp" w="240" h="64" x="0" y="0" st="0"/>
+		<lbg  bmp="LBG_DUNGEON1.bin.bmp" w="240" h="36" x="0" y="6" st="0" />
+		<ilbg bmp="LBG_DUNGEON1.bin.bmp" w="240" h="36" x="0" y="6" st="0"/>
+	
+		<fw1 bmp="WS1_FW1.bin.bmp" w="188" h="91" x="26" y="6" st="0" />
+		<fw2 bmp="WS1_FW2.bin.bmp" w="124" h="60" x="58" y="26" st="0" />
+		<fw3 bmp="WS1_FW3.bin.bmp" w="80" h="40" x="80" y="40" st="0" />
+		<fw4 bmp="WS1_FW4.bin.bmp" w="60" h="24" x="91" y="51" st="0" />
+		
+		<lw1 bmp="WS1_LW1.bin.bmp" w="26" h="100" x="0" y="0" st="0" />
+		<lw2 bmp="WS1_LW2.bin.bmp" w="32" h="92" x="26" y="5" st="0" />
+		<lw3 bmp="WS1_LW3.bin.bmp" w="22" h="60" x="58" y="26" st="0" />
+		<lw4 bmp="WS1_LW4.bin.bmp" w="19" h="38" x="80" y="41" st="0" />
+		
+		<rw1 bmp="WS1_RW1.bin.bmp" w="26" h="100" x="214" y="0" st="0" />
+		<rw2 bmp="WS1_RW2.bin.bmp" w="32" h="92" x="182" y="4" st="0" />
+		<rw3 bmp="WS1_RW3.bin.bmp" w="22" h="60" x="160" y="26" st="0" />
+		<rw4 bmp="WS1_RW4.bin.bmp" w="19" h="38" x="141" y="41" st="0" />
+	</wallset>
+	
+	<wallset in="1" id="2" name="Dungeon_2" depth="4">
+		<ubg  bmp="UBG_DUNGEON1.bin.bmp" w="240" h="64" x="0" y="0" st="0" />
+		<iubg bmp="IUBG_DUNGEON1.bin.bmp" w="240" h="64" x="0" y="0" st="0"/>
+		<lbg  bmp="LBG_DUNGEON1.bin.bmp" w="240" h="36" x="0" y="6" st="0" />
+		<ilbg bmp="LBG_DUNGEON1.bin.bmp" w="240" h="36" x="0" y="6" st="0"/>
+	
+		<fw1 bmp="WS2_FW1.bin.bmp" w="192" h="102" x="24" y="0" st="0" />
+		<fw2 bmp="WS2_FW2.bin.bmp" w="92" h="81" x="58" y="0" st="0" />
+		<fw3 bmp="WS2_FW3.bin.bmp" w="60" h="75" x="80" y="0" st="0" />
+		<fw4 bmp="WS2_FW4.bin.bmp" w="43" h="71" x="91" y="0" st="0" />
+		
+		<lw1 bmp="WS2_LW1.bin.bmp" w="26" h="100" x="0" y="0" st="0" />
+		<lw2 bmp="WS2_LW2.bin.bmp" w="32" h="91" x="26" y="0" st="0" />
+		<lw3 bmp="WS2_LW3.bin.bmp" w="22" h="78" x="58" y="0" st="0" />
+		<lw4 bmp="WS2_LW4.bin.bmp" w="14" h="69" x="80" y="0" st="0" />
+		
+		<rw1 bmp="WS2_RW1.bin.bmp" w="26" h="100" x="214" y="0" st="0" />
+		<rw2 bmp="WS2_RW2.bin.bmp" w="32" h="91" x="182" y="0" st="0" />
+		<rw3 bmp="WS2_RW3.bin.bmp" w="22" h="78" x="160" y="0" st="0" />
+		<rw4 bmp="WS2_RW4.bin.bmp" w="14" h="69" x="141" y="0" st="0" />
+	</wallset>
+	
+</wallsets>
